@@ -2,5 +2,4 @@
 <workspaceFilter version="1.0">
     <filter root="/content/training-site"/>
     <filter root="/content/dam/training"/>
-    <filter root="/conf"/>
 </workspaceFilter>
